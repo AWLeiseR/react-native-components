@@ -1,5 +1,5 @@
 # react-native-components
-##Repo destinado a componentes utilizados frequentemente
+## Repo destinado a componentes utilizados frequentemente
 - Uso do componente Progress bar
 
 ```javascript
