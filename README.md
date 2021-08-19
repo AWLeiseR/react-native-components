@@ -19,11 +19,11 @@
 
 Propriedades|Formato|Exemplo
 --------------|-------|------------
- width|Porcentagem|'0.8' 
+width|Porcentagem|'0.8' 
 height|Porcentagem|'0.02'
 borderRadius|Porcentagem|'0.02'
 marginHorizontal|Porcentagem|'0.05'
- backgroundColor|Hexadecimal|'#fda'
- statusBackgroundColor|Hexadecimal|'#fda'
- position|integer|'60'
-    duration|integer|'110'
+backgroundColor|Hexadecimal|'#fda'
+statusBackgroundColor|Hexadecimal|'#fda'
+position|integer|'60'
+duration|integer|'110'
